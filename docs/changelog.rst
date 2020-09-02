@@ -2,6 +2,7 @@
 Changelog
 =========
 
+* :bug:`266 major` FlowCytometry excitation field should be optional and support specification of multiple lasers
 * :feature:`265` Add support for mass_concentration, amount_concentration and volume_concentration, as specified in ASC-51
 * :support:`267` Pin black version to reduce CI/local inconsistencies. Pin to 20.8b1
 
